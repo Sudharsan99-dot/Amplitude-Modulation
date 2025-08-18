@@ -115,6 +115,7 @@ Output Waveform
 
 TABULATION:
 
+![AMgithub](https://github.com/user-attachments/assets/ccb711cc-9bd0-4543-a1a8-78e5f2a023ab)
 
 
 Calculation
